@@ -54,7 +54,7 @@ namespace TicketManagementSystem
                 using (var package = new ExcelPackage(uploadFile.InputSteam))
                 {
                     var worksheet = package.Workbook.Worksheets[0];
-                    for (int row = worksheet.Dimenson.Start.Row; row <= worksheet.Dimension.End.Row; row++)
+                    for (int row = worksheet.Dimension.Start.Row; row <= worksheet.Dimension.End.Row; row++)
                     {
                         var callValue = worksheet.Cells[1, 0].Text;
                     }
