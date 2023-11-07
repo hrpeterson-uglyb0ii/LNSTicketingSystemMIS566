@@ -12,6 +12,8 @@ namespace TicketManagementSystem
 {
     public partial class ProfessorView : Form
     {
+        public Form FormShowLeaderboard { get; set; }
+
         public ProfessorView()
         {
             InitializeComponent();

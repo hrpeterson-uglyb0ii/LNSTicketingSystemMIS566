@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Linq;
 using Excel = Microsoft.Office.Interop.Excel;
+using OfficeOpenXml;
 
 namespace TicketManagementSystem
 {
@@ -24,7 +25,10 @@ namespace TicketManagementSystem
         Excel.Workbook xlWorkBook;
         Excel.Worksheet xlWorkSheet;
 
-        string sname = "C:\\Users\\rbieh\\OneDrive\\Desktop\\TicketManagementSystem (2)\\TicketManagementSystem\\TicketManagementSystem\\opentickets.xlsx";
+        string sname = "https://github.com/hrpeterson-uglyb0ii/LNSTicketingSystemMIS566/blob/5ba8c5a20ebc58c78558c4a52e512f386e0a5599/opentickets.xlsx";
+
+        //C:\\Users\\rbieh\\OneDrive\\Desktop\\TicketManagementSystem(2)\\TicketManagementSystem\\TicketManagementSystem\\opentickets.xlsx
+        
 
         int iRow, iCol = 1;
         private void createTicket_Load(object sender, EventArgs e)

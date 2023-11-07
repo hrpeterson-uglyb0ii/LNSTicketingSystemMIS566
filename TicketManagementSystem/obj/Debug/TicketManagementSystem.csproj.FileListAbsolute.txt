@@ -58,3 +58,21 @@ C:\Users\megan\Desktop\TicketManagementSystem (3)\TicketManagementSystem (2)\Tic
 C:\Users\megan\Desktop\TicketManagementSystem (3)\TicketManagementSystem (2)\TicketManagementSystem\TicketManagementSystem\obj\Debug\TicketManagementSystem.exe
 C:\Users\megan\Desktop\TicketManagementSystem (3)\TicketManagementSystem (2)\TicketManagementSystem\TicketManagementSystem\obj\Debug\TicketManagementSystem.pdb
 C:\Users\megan\Desktop\TicketManagementSystem (3)\TicketManagementSystem (2)\TicketManagementSystem\TicketManagementSystem\obj\Debug\TicketManagementSystem.Leaderboard.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\TicketManagementSystem.exe.config
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\TicketManagementSystem.exe
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\TicketManagementSystem.pdb
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.ResolveComReference.cache
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.Leaderboard.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.SendEmailForm.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.stview.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.createTicket.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.LoginScreen.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.ProfessorView.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.StudentView.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.Properties.Resources.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.TAview.resources
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.GenerateResource.cache
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.exe
+C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.pdb
