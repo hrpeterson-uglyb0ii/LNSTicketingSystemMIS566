@@ -49,21 +49,21 @@ namespace TicketManagementSystem
         {
             xlApp = new Excel.Application();
 
-            try
-            {
-                using (var package = new ExcelPackage(uploadFile.InputSteam))
-                {
-                    var worksheet = package.Workbook.Worksheets[0];
-                    for (int row = worksheet.Dimension.Start.Row; row <= worksheet.Dimension.End.Row; row++)
-                    {
-                        var callValue = worksheet.Cells[1, 0].Text;
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Exception: " + ex.Message);
-            }
+            //try
+            //{
+            //    using (var package = new ExcelPackage(uploadFile.InputSteam))
+            //    {
+            //        var worksheet = package.Workbook.Worksheets[0];
+            //        for (int row = worksheet.Dimension.Start.Row; row <= worksheet.Dimension.End.Row; row++)
+            //        {
+            //            var callValue = worksheet.Cells[1, 0].Text;
+            //        }
+            //    }
+            //}
+            //catch (Exception ex)
+            //{
+            //    MessageBox.Show("Exception: " + ex.Message);
+            //}
 
             try
             {

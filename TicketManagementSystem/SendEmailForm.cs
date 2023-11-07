@@ -33,11 +33,11 @@ namespace TicketManagementSystem
             SmtpClient client = new SmtpClient("smtp-mail.outlook.com")
             {
                 Port = 587, // Port for your SMTP server
-                Credentials = new NetworkCredential("Your outlook email here", "Your outlook password here"), //Outlook email credentials go here
+                Credentials = new NetworkCredential("lnsticketmanagement@outlook.com", "MIS566rocks!"), //Outlook email credentials go here
                 EnableSsl = true
             };
 
-            MailMessage message = new MailMessage("rbiehler02@outlook.com", recipient)
+            MailMessage message = new MailMessage("lnsticketmanagement@outlook.com", recipient)
             {
                 Subject = subject,
                 Body = body
