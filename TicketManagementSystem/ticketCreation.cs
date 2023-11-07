@@ -15,6 +15,8 @@ namespace TicketManagementSystem
 {
     public partial class createTicket : Form
     {
+        public Form FormShowStudent { get; set; } 
+
         public createTicket()
         {
             InitializeComponent();
@@ -46,6 +48,22 @@ namespace TicketManagementSystem
         private void ticketSub_Click(object sender, EventArgs e)
         {
             xlApp = new Excel.Application();
+
+            try
+            {
+                using (var package = new ExcelPackage(uploadFile.InputSteam))
+                {
+                    var worksheet = package.Workbook.Worksheets[0];
+                    for (int row = worksheet.Dimenson.Start.Row; row <= worksheet.Dimension.End.Row; row++)
+                    {
+                        var callValue = worksheet.Cells[1, 0].Text;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Exception: " + ex.Message);
+            }
 
             try
             {

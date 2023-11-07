@@ -76,3 +76,11 @@ C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\
 C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.CoreCompileInputs.cache
 C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.exe
 C:\Users\17854\Source\Repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.pdb
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\EPPlus.dll
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\EPPlus.xml
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.CopyComplete
