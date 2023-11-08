@@ -13,6 +13,7 @@ namespace TicketManagementSystem
 {
     public partial class StudentView : Form
     {
+        public Form StudentClosing { get; set; }
         public StudentView()
         {
             InitializeComponent();
@@ -31,19 +32,26 @@ namespace TicketManagementSystem
 
         private void logOffButton_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            StudentClosing.Close();
+            var login = new LoginScreen();
+            login.BacktoLogin = this;
+            this.Close();
         }
 
         private void createButton_Click(object sender, EventArgs e)
         {
             createTicket createTicketForm = new createTicket();
+            createTicketForm.FormShowCreation = this;
             createTicketForm.Show();
+            this.Hide();
         }
 
         private void viewButton_Click(object sender, EventArgs e)
         {
             stview stViewForm = new stview();
+            stViewForm.OpenTicketsClose = this;
             stViewForm.Show();
+            this.Hide();
         }
     }
 }

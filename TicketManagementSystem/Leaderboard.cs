@@ -12,6 +12,8 @@ namespace TicketManagementSystem
 {
     public partial class Leaderboard : Form
     {
+        public Form CloseProfessor { get; set; }
+
         public Leaderboard()
         {
             InitializeComponent();
@@ -19,11 +21,16 @@ namespace TicketManagementSystem
 
         private void btnExitLead_Click(object sender, EventArgs e)
         {
-            //this.Close();
-            //if (null != FormShowLeaderboard)
-            //{
+            this.Close();
+            if (null != CloseProfessor)
+            {
+                CloseProfessor.Show();
+            }
 
-            //}
+        }
+
+        private void Leaderboard_Load(object sender, EventArgs e)
+        {
 
         }
     }

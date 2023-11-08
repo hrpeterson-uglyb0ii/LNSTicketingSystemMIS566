@@ -15,7 +15,7 @@ namespace TicketManagementSystem
 {
     public partial class createTicket : Form
     {
-        public Form FormShowStudent { get; set; } 
+        public Form FormShowCreation { get; set; } 
 
         public createTicket()
         {
@@ -41,6 +41,7 @@ namespace TicketManagementSystem
         private void button2_Click(object sender, EventArgs e)
         {
             StudentView studentViewForm = new StudentView();
+            studentViewForm.StudentClosing = this;
             studentViewForm.Show();
             this.Close();
         }
