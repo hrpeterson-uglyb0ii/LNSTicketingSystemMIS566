@@ -84,3 +84,25 @@ C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\
 C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\EPPlus.xml
 C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
 C:\Users\17854\source\repos\LNSTicketingSystemMIS566\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.CopyComplete
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.ResolveComReference.cache
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.Leaderboard.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.SendEmailForm.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.stview.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.createTicket.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.LoginScreen.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.ProfessorView.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.StudentView.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.Properties.Resources.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.TAview.resources
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.GenerateResource.cache
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.exe
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.pdb
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\bin\Debug\TicketManagementSystem.exe.config
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\bin\Debug\TicketManagementSystem.exe
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\bin\Debug\TicketManagementSystem.pdb
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Thomas Arling\source\repos\LNSTicketsMain\TicketManagementSystem\obj\Debug\TicketManagementSystem.csproj.CopyComplete
