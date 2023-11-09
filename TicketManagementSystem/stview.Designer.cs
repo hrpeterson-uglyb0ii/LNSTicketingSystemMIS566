@@ -77,7 +77,7 @@
             this.resolveTicket.TabIndex = 3;
             this.resolveTicket.Text = "Resolve Ticket";
             this.resolveTicket.UseVisualStyleBackColor = true;
-            this.resolveTicket.Click += new System.EventHandler(this.resolveTicket_Click_1);
+            //this.resolveTicket.Click += new System.EventHandler(this.resolveTicket_Click_1);
             // 
             // button2
             // 
@@ -113,7 +113,7 @@
             this.Controls.Add(this.stExit);
             this.Name = "stview";
             this.Text = "Student Ticket View";
-            this.Load += new System.EventHandler(this.stview_Load_1);
+            //this.Load += new System.EventHandler(this.stview_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

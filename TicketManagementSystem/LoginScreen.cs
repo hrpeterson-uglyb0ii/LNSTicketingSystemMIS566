@@ -12,6 +12,8 @@ namespace TicketManagementSystem
 {
     public partial class LoginScreen : Form
     {
+        public Form BacktoLogin { get; set; }
+
         public LoginScreen()
         {
             InitializeComponent();
@@ -35,7 +37,15 @@ namespace TicketManagementSystem
         private void button1_Click(object sender, EventArgs e)
         {
             ProfessorView openProfessorView = new ProfessorView();
+            openProfessorView.LoginProfessor = this;
             openProfessorView.Show();
+            this.Hide();
+        }
+
+        private void btnExitApp_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            Application.Exit();
         }
     }
 }

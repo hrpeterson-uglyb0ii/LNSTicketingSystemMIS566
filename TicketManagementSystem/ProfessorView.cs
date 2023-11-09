@@ -13,6 +13,7 @@ namespace TicketManagementSystem
     public partial class ProfessorView : Form
     {
         public Form FormShowLeaderboard { get; set; }
+        public Form LoginProfessor { get; set; }
 
         public ProfessorView()
         {
@@ -21,7 +22,11 @@ namespace TicketManagementSystem
 
         private void logOffButton_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            this.Close();
+            if (null != LoginProfessor)
+            {
+                LoginProfessor.Show();
+            }
         }
 
         private void ProfessorView_Load(object sender, EventArgs e)
@@ -32,13 +37,17 @@ namespace TicketManagementSystem
         private void viewButton_Click(object sender, EventArgs e)
         {
             stview stViewForm = new stview();
+            stViewForm.OpenTicketsClose = this;
             stViewForm.Show();
+            this.Hide();
         }
 
         private void viewButton2_Click(object sender, EventArgs e)
         {
             Leaderboard leaderboard = new Leaderboard();
+            leaderboard.CloseProfessor = this;
             leaderboard.Show();
+            this.Hide();
         }
     }
 }
